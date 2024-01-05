@@ -1,3 +1,13 @@
-<h1>I'm a big heading</h1>
-<p>I'm a paragraph element.</p>
-<a href="https://google.com" target="_blank" title="Let's go to google">Click me! I'm a link!</a>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cat page</title>
+</head>
+<body>
+    <h1>I'm a big heading</h1>
+    <p>I'm a <i><b>paragraph</b></i> element.</p>
+    <a href="https://google.com" target="_blank" title="Let's go to google">Click me! I'm a link!</a>
+    <p>My name is:<br>Purrito</p>
+    <img src="cat.jpg">
+</body>
+</html>
